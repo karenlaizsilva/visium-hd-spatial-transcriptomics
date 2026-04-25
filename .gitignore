@@ -1,19 +1,6 @@
-data/
-*.tif
-*.btf
-*.tar
-*.h5
-
-# Extensões específicas de Bioinformática/Grandes volumes
-*.tif
-*.btf
-*.tar
-*.tar.gz
-*.h5
-*.parquet
-*.cloupe
-*.html
-
-# Arquivos gerados pelo tutorial do Scverse/SpatialData
 *.zarr/
+*.h5ad
+*.tar.gz
+*.tif
 .ipynb_checkpoints/
+__pycache__/
